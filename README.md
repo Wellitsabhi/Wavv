@@ -15,6 +15,21 @@
    - Initialize Git and commit the project.
    - Connect to GitHub or your preferred remote repository.
 
+2. **Setup Database for project**
+   1. **PostgreSQL database (Neon)**
+   - Make id a Neon
+   - copy database url in .env file
+
+    3. **Setup Prisma**
+   - Add schema
+   - Basic migrations
+   - Database studio
+   - database reset ( For Development ONLY )
+
+    4. **Create Git repo**
+   - Initialize Git and commit the project.
+   - Connect to GitHub or your preferred remote repository.
+
 
 ## Getting Started
 
