@@ -7,11 +7,11 @@
    - Check `package.json` for correct dependencies.
    - Ensure the project structure and versions match expected setup.
 
-    3. **Setup shadcn**
+   2. **Setup shadcn**
    - Run `npx shadcn-ui@latest init` to configure shadcn/ui.
    - Add required components as needed.
 
-    4. **Create Git repo**
+   3. **Create Git repo**
    - Initialize Git and commit the project.
    - Connect to GitHub or your preferred remote repository.
 
@@ -20,15 +20,22 @@
    - Make id a Neon
    - copy database url in .env file
 
-    3. **Setup Prisma**
+   2. **Setup Prisma**
    - Add schema
    - Basic migrations
    - Database studio
    - database reset ( For Development ONLY )
 
-    4. **Create Git repo**
+   3. **Create Git repo**
    - Initialize Git and commit the project.
    - Connect to GitHub or your preferred remote repository.
+
+3. **TRPC Setup**
+   1. **Setup tRPC**
+   - Experiment with client component
+   - Experiment with server component
+   - Previe prefetching
+
 
 
 ## Getting Started
