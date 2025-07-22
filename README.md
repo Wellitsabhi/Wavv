@@ -36,6 +36,24 @@
    - Experiment with server component
    - Previe prefetching
 
+4. **Background Jobs**
+   - Learn about Backgorund Jobs
+
+5. **AI Jobs**
+   1. **Choos API Provdier**
+   - Using gemini keys for now
+
+5. *E2B Sandboxes**
+   1. **Setup E2B**
+   - Create account
+   - Install CLI
+   - connnect to account
+   - create dockerfile template
+   - intall docker
+   - push template to db
+
+   2. **Preview Nextjs app inside sandbox**
+   - start sandbox in inngest with new template
 
 
 ## Getting Started

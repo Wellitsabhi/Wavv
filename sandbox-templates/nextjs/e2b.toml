@@ -1,0 +1,17 @@
+# This is a config for E2B sandbox template.
+# You can use template ID (wikjy7ula4qvmv6yguta) or template name (wavv-nextjs-text-3) to create a sandbox:
+
+# Python SDK
+# from e2b import Sandbox, AsyncSandbox
+# sandbox = Sandbox("wavv-nextjs-text-3") # Sync sandbox
+# sandbox = await AsyncSandbox.create("wavv-nextjs-text-3") # Async sandbox
+
+# JS SDK
+# import { Sandbox } from 'e2b'
+# const sandbox = await Sandbox.create('wavv-nextjs-text-3')
+
+team_id = "def38f71-e473-4e9a-a3ca-bb408ad1c724"
+start_cmd = "/compile_page.sh"
+dockerfile = "e2b.Dockerfile"
+template_name = "wavv-nextjs-text-3"
+template_id = "wikjy7ula4qvmv6yguta"
