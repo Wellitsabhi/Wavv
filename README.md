@@ -43,7 +43,7 @@
    1. **Choos API Provdier**
    - Using gemini keys for now
 
-5. *E2B Sandboxes**
+6. **E2B Sandboxes**
    1. **Setup E2B**
    - Create account
    - Install CLI
@@ -54,6 +54,15 @@
 
    2. **Preview Nextjs app inside sandbox**
    - start sandbox in inngest with new template
+
+7. **Agent Tools**
+   1. **Add tools to agent**
+   - terminal
+   - create or update files
+   - readfiles
+
+   2. **Add a new prompt**
+   3. **Add agent newtwork**
 
 
 ## Getting Started
